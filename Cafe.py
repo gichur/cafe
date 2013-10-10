@@ -1,3 +1,4 @@
+#BACHUR
 status = 1
 while status != 0:
 	nota = int(input('Em uma escala de 0 a 5 de a nota da qualidade do café: '))
